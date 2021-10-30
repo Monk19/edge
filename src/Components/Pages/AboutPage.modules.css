@@ -1,0 +1,8 @@
+p {
+  font-family: var(--robotoRegular);
+  font-size: var(--robotoRegularSize);
+}
+h1.mission-bg {
+  background-image: url("../../Assets/Images/Group\ 72.png");
+  text-align: left;
+}
